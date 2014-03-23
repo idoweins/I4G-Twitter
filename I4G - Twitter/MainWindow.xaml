@@ -1,0 +1,23 @@
+﻿<Window x:Class="I4G___Twitter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local ="clr-namespace:I4G___Twitter"
+        Title="I4G - Ido Weinstein 2014" Height="352" Width="525">
+    <Window.Resources>
+        <local:TweetsList x:Key="tweets"/>
+    </Window.Resources>
+    <Grid Margin="0,0,0,19"  ScrollViewer.VerticalScrollBarVisibility="Visible">
+        <ListBox Name="listbox" ItemsSource="{Binding Source={StaticResource tweets}}"  
+            HorizontalContentAlignment="Stretch" VerticalAlignment="Top">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <Grid HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="547" Margin="10,10">
+                        <Image HorizontalAlignment="Left" Height="50" VerticalAlignment="Top" Width="50" Source="{Binding ImageURL}"/>
+                        <TextBlock HorizontalAlignment="Left" Margin="100,0,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="100" Width="397" Text="{Binding Content}"/>
+                    </Grid>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Update" VerticalAlignment="Bottom" Click="Button_Click" Margin="0,0,0,-15"/>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\bin\Debug\I4G - Twitter.exe.config
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\bin\Debug\I4G - Twitter.exe
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\bin\Debug\I4G - Twitter.pdb
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\MainWindow.g.cs
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\App.g.cs
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter_MarkupCompile.cache
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter_MarkupCompile.lref
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\MainWindow.baml
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter.g.resources
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G___Twitter.Properties.Resources.resources
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter.csproj.GenerateResource.Cache
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter.exe
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter.pdb
+C:\Users\IdoPC\Documents\Visual Studio 2013\Projects\I4G - Twitter\I4G - Twitter\obj\Debug\I4G - Twitter.csprojResolveAssemblyReference.cache
